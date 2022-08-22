@@ -16,7 +16,7 @@ import java.util.*;
 @ToString
 @Component
 @Entity
-@Table(name = "user")
+@Table(name = "users")
 public class User extends BaseEntity  {
 
 
